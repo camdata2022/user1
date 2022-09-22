@@ -1,4 +1,4 @@
-/* HelloWorld.java this is for pull request
+/* comment section
  */
 
 public class HelloWorld
